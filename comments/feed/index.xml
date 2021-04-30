@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for E-Bike Discovery	</title>
-	<atom:link href="https:///comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://</link>
+	<atom:link href="https://daarster.github.io/ebikediscovery/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://daarster.github.io/ebikediscovery</link>
 	<description>E-bike guided tours in Eastern Serbia</description>
 	<lastBuildDate>Thu, 29 Apr 2021 23:03:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
