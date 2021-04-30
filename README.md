@@ -1,0 +1,2 @@
+# ebikediscovery
+WordPress static website
